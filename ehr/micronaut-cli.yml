@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: org.jla.ehr
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: maven
+features: [annotation-api, app-name, http-client, junit, kotlin, kotlin-application, logback, maven, netty-server, reactor, reactor-http-client, readme, serialization-jackson, shade, yaml]

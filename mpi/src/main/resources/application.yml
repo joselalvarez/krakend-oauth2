@@ -1,0 +1,10 @@
+micronaut:
+  application:
+    name: mpi
+  server:
+    port: 8001
+    thread-selection: IO
+netty:
+  default:
+    allocator:
+      max-order: 3

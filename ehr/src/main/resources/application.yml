@@ -1,0 +1,13 @@
+micronaut:
+  application:
+    name: ehr
+  server:
+    port: 8002
+    thread-selection: IO
+netty:
+  default:
+    allocator:
+      max-order: 3
+mpi:
+  address: http://localhost:8082
+
