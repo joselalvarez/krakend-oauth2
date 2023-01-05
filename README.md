@@ -64,7 +64,7 @@ $ sdk install maven
 $ sdk install micronaut
 ```
 
-### Construcción e instalación de la imágenes docker de los microservicios
+### Construcción e instalación de las imágenes docker de los microservicios
 La construcción de las imágenes se realiza mediante Maven con la opción de empaquetado "docker-native":
 ```
 $ cd mpi
